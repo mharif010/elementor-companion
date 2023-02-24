@@ -4,8 +4,8 @@
  * Description: galaxypro Companion plugin.
  * Plugin URI:  https://elementor.com/
  * Version:     1.0.0
- * Author:      LWHH
- * Author URI:  https://learnwith.hasinhayder.com
+ * Author:      mhArif
+ * Author URI:  https://mharif.com
  * Text Domain: galaxypro-companion
  */
 
